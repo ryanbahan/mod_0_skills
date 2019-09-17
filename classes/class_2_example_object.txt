@@ -1,0 +1,23 @@
+Steak ready to be prepared
+
+Attributes:
+
+cooked: false
+requiresCooking: true
+readyToServe: false
+served: false
+calories: 100
+carbohydrates: 30
+sodium: 20
+sugars: 5
+nutritionFacts: [100, 30, 20, 5]
+price: 25
+
+
+Methods:
+
+cookItem: cooked = true
+calculateNutritionFacts: 100, 30, 20, 5
+calculateEntreeReady: cooked returns false, readyToServe does not update
+serveItem: served = true
+discountPrice: price = 20
