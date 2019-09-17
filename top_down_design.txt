@@ -1,0 +1,40 @@
+How to become a Turing student:
+
+- Discover Turing
+- Complete application process
+  - Complete step 1 of application process
+    - Complete basic identity and contact information section
+    - Complete work history section
+      - Attach resume
+    - Complete logic quiz
+  - Complete step 2 of application process
+    - Schedule interview
+    - Complete paired logic quiz
+    - Complete interview
+- Enroll at Turing
+  - Choose FE/BE program
+  - Choose cohort
+  - Choose Mod 0 start date
+  - Make initial deposit
+    - Receive laptop
+  - Set up laptop for Mod 0
+    - Create GitHub account
+    - Create Slack account
+    - Install Git
+      - Configure Git
+    - Install NPM
+    - Install homebrew
+    - Install Atom
+      - Set up terminal access for Atom
+    - Install Node.js
+    - Install Xcode-select
+    - Install Chrome
+  - Make necessary tuition payments 30 days prior to cohort start
+- Complete Mod 0
+  - Attend all Mod 0 classes
+    - Actively engage in breakout rooms and class discussion
+  - Complete all Mod 0 required homework assignments
+  - Complete technical assessment
+    - Make this list
+  - Complete capstone project
+- Begin Turing as a student!
