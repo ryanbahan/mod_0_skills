@@ -1,0 +1,26 @@
+Empty and dirty 6-person booth
+
+Attributes:
+
+color: "brown"
+material: "wood"
+height: 36
+width: 72
+depth: 30
+dimensions: [36, 72, 30]
+booth: true
+maximumSeats: 6
+minimumSeats: 3
+occupied: false
+needsReset: true
+
+Methods:
+
+cleanTable: needsReset = false
+checkForEmptySeat: returns occupied: false
+resetOccupied: occupied = false
+findTable: returns booth = true and moves to next instance
+findBooth: returns booth = true
+calculateDimensions: 36, 72, 30
+seatGuests: returns needsReset = true and moves to next instance
+changeSeats: maximumSeats = 5
