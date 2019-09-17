@@ -1,0 +1,23 @@
+Entree items
+
+Attributes:
+
+cooked (boolean)
+requiresCooking (boolean)
+readyToServe (boolean)
+served (boolean)
+calories (integer)
+carbohydrates (integer)
+sodium (integer)
+sugars (integer)
+nutritionFacts (array)
+price (integer)
+
+
+Methods:
+
+cookItem (change cooked value to true)
+calculateNutritionFacts (return nutritionFacts array as integers)
+calculateEntreeReady (if both requiresCooking and cooked return true, or both return false, change readyToServe to true)
+serveItem (change served to true)
+discountPrice (change value of price)
