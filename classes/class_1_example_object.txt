@@ -17,10 +17,6 @@ needsReset: true
 Methods:
 
 cleanTable: needsReset = false
-checkForEmptySeat: returns occupied: false
 resetOccupied: occupied = false
-findTable: returns booth = true and moves to next instance
-findBooth: returns booth = true
 calculateDimensions: 36, 72, 30
-seatGuests: returns needsReset = true and moves to next instance
 changeSeats: maximumSeats = 5

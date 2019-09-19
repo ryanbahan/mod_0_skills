@@ -17,10 +17,6 @@ needsReset (boolean)
 Methods:
 
 cleanTable (change needsReset to false)
-checkForEmptySeat (find table instance with occupied value of false)
 resetOccupied (change occupied value to false)
-findTable (find table instance with booth value of false)
-findBooth (find table instance with booth value of true)
 calculateDimensions (return dimensions array as integers)
-seatGuests (find table instance that matches numberOfGuests within maximumSeats and minimumSeats parameters)
 changeSeats (add or remove maximumSeats)
